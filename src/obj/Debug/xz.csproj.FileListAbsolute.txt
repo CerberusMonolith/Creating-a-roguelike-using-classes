@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\laz\xz\bin\Debug\xz.exe.config
+C:\Users\user\Desktop\laz\xz\bin\Debug\xz.exe
+C:\Users\user\Desktop\laz\xz\bin\Debug\xz.pdb
+C:\Users\user\Desktop\laz\xz\obj\Debug\xz.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\laz\xz\obj\Debug\xz.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\laz\xz\obj\Debug\xz.exe
+C:\Users\user\Desktop\laz\xz\obj\Debug\xz.pdb
